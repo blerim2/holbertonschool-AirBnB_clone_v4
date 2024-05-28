@@ -88,4 +88,4 @@ No known bugs at this time.
 - Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 
 ## License
-Public Domain. No copywrite protection.
+Public Domain. No copywrite protection
